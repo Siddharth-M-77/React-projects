@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import BgChanger from './components/BgChanger'
+import BgChanger from './components/01BgChanger'
 
 
 function App() {
